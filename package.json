@@ -1,0 +1,17 @@
+{
+  "name": "generator-angularjs2",
+  "version": "0.0.1",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "aurelien.allienne@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
